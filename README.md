@@ -12,8 +12,8 @@ It allows users to manage bakery items, display inventory, and place customer or
 
 ## 🧑‍💻 Concepts Used
 
-- Classes and Objects
-- Constructors (`__init__`)
+- Classes and Objects.
+- Constructors (`__init__`).
 - Encapsulation
 - Lists (for inventory management)
 - Conditional statements
