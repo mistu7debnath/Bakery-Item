@@ -7,4 +7,6 @@ It allows users to manage bakery items, display inventory, and place customer or
 
 - Add bakery items (name, price, quantity)
 - Display available inventory.
+- User-friendly menu-driven interface
+
 
