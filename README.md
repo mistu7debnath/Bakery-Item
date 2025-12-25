@@ -10,3 +10,14 @@ It allows users to manage bakery items, display inventory, and place customer or
 - User-friendly menu-driven interface
 
 
+## 🧑‍💻 Concepts Used
+
+- Classes and Objects
+- Constructors (`__init__`)
+- Encapsulation
+- Lists (for inventory management)
+- Conditional statements
+- Loops
+- Exception handling
+- String formatting
+
